@@ -1,58 +1,60 @@
 
 ----------
 
-# *Class  from week 2, 201 Jun 2017*
+# *Class  10 from week 2, 201 Jun 2017*
 
-## DOM 
-Define a problem and identify the step that are involved. detailed the solutions it could be the second steps. what the component are. (*ryan sobol $160 hour rate). 
-html every element is an object that can be manipulable. The DOM as 
-we can access to html from js file using command as document.body or document.head.’someproperties’ (can access to the properties inside the html element you tag)
+## Chapter 10: Debugging
+## Dry code
 
-## Constructor
-
- -  create the element 
- -  give the element some content 
- -  append  the element to the appropriate place in the DOM.
- ## I learned
  
- - Implement a constructor function.  
- - Replace the list with a single table. 
- - Add a total column. (The third requirement is not mandatory.)
+Over flow for make the scroll page
+reset.css
+normalize.css → works for the most common setting on css.
+ 
+built out the html. 
+then css → layout → style → 
+_______
 
-##Code Structure
- 
-Top of the code → Set up data
-	→ Declare global variable
-	→ DOM element
-	→ Constructor (s)
-		Data first = properties
-		Functions = methods
-	→ Create instances
-Define behavior → 
-	→ functions 
-		→ Set up local variables
-		→ Define function logic
-Executable Code → what really run when you go to the browser.
-	→ Function calls
-	→ Event listeners
- 
-Events: 
- handle user input and all kind of user behavior. Interaction user - page. 
+##Wireframe
+How to star a web mock up for clients. 
+Modeling the web structure before we start to create the real functionality. 
 
-##Check event listener
- 
-element. addEventListener(‘event’, ‘function name’, [boolean]);
-function inside function, function calling functions…
-‘blur’ event: trigger to the callback function
-call back function: 
-event flow: super important but not now for us. 
-Event Object: store a lot of data after an event occur.
-target: 
-Prevent default event: cancel default behavior of an event. Page 265. 
+## Cookie Stand
+We still working on our final Salmon cookie stand for the next week. 
+Retouching the code was the hardest part of this week. 
+200 line of code can be reduce to 100 line throught dry. Re-using previous information from our code.
+
+## Pair work "Chocolate Pizza" 
+It was the most entertained activity of the week, each one of us must help the other to create from 0 a front page. Aligning elements and organize the visual of the page.
+
+ - Hover Pseudo-classes
+ - float: left;
+ - positioning elements
+ - create a header with social links -kind of- 
+
+```a:hover {
+  background-color: yellow;
+  border-radius: 10px;
+  padding: 10px 45px;
+}
+
+.h {
+  float: none;
+  border-radius: 10px;
+  padding: 10px 45px;
+  /*   position: fixed; */
+}
+
+button {
+  border-radius: 10px;
+  padding: 10px 45px;
+  margin-left: 0px;
+}
+```
 
 
 ------
 > **Note:**
-I still having issues figuring out how to put together the code. I have some issues figuring out what should I do with my code. 
+This week was the hardest but at the end we realize that in a short time we have learnt a lot, and is amazing the amount of code we have been writting. The funniest part and less stressful was the css pair lab.
 
 
