@@ -1,20 +1,20 @@
 
+
 ----------
 
-# **Learning Journal 15**
+# **Learning Journal 16**
 
-## __***week 3***__
+## __***week 4***__
 
- - Merge conflicts on gib hub.
- - 301 preview class
- - Directions for the finale project.
- - Add Local storage.
+ - Started algorithm.
+ - Finished the Pseudo Code
+ - Define the image positioning.
+ - Make structure for the functions
+ - ![Pseudo code for move tiles]![enter image description here](https://lh3.googleusercontent.com/oSgIEnuH7Vdg3qETtJCVj4FekX5ErdmpUxMAWvhgD07JFEd6lEXGCUeOWMwdDayKq17ctrZFcA=s0 "IMG_20170626_202515.jpg")
 
- ```  "name" : "Merry",
-	"Nationality": "American",
-	"date of bird': 06-04-1978,```
+ ```  ,```
 
 
 ------
 > **Note:**
-By the time of this assignment I had 1 days delayed on the lab's sessions.  I spent the weekend finishing the assignments and resubmitting some daily read.
+Still working in make the tile able to move. We actually have the canvas settings able to display the slide puzzle.
