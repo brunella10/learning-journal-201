@@ -7,6 +7,7 @@
 
  - Started algorithm. We did not finish the algorithm.
 	 - Even when I found a couple of possible solutions. It was not viable to be applied to our project. As its was using API's and jQuery.
+ - I found something that might be useful but at the end did not made it through it.
  - Finished the Pseudo Code. We did finish pseudo code
  - Define the image positioning. Zack finished this.
 	 - After that we found that we need to make the empty tile a fixed position in our puzzle. So, I came with the idea to drop it off from the array function and it work!.
